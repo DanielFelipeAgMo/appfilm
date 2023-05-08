@@ -27,7 +27,7 @@ class Navbar extends React.PureComponent {
           <View style={styles.mainNav}>
             <Image
               style={styles.logo}
-              source={require('../assets/images/movies.png')}
+              source={require('../assets/images/factsoft.png')}
             />
             <TouchableOpacity
               onPress={() => {

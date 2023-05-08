@@ -46,4 +46,4 @@ class MainNavigation extends React.PureComponent {
   }
 }
 
-export default MainNavigation;
+export default MainNavigation;  
